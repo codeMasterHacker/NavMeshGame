@@ -1,0 +1,7 @@
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+NavMeshGameAI.sln
+obj/
+.DS_Store
+.DS_Store?
